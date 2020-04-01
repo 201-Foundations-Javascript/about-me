@@ -87,3 +87,22 @@ img {
   .active {
     background-color: #4CAF50;
   }
+
+  #IceCream {
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 15px;
+    border-color: red;
+    overflow: hidden;
+  }
+
+  #none {
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  #Edu {
+    margin-top: 20px;
+  }
